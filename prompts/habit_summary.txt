@@ -1,0 +1,32 @@
+You are reviewing a user's long-term spending habit profile.
+
+The following data has been accumulated across multiple insight sessions:
+
+Last updated: {last_updated}
+Total transactions tracked: {total_transactions_tracked}
+
+Top categories by weighted spend:
+{top_categories}
+
+Category averages (per insight period):
+{category_averages}
+
+Active spending patterns:
+{active_patterns}
+
+Spending history (most recent periods):
+{spending_history}
+
+Write a short habit summary covering:
+
+1. What this person consistently spends the most on
+2. Any categories showing a sustained trend up or down
+3. Whether their overall spending is stable, growing, or shrinking over time
+
+Rules:
+- Base everything on the data, do not speculate
+- If a pattern has been active for multiple periods, call it established
+- If data is sparse (fewer than 3 periods), note that habits are still being learned
+- Keep the summary under 150 words
+- Plain prose, no bullet points or headers
+- Tone is observational, not prescriptive
